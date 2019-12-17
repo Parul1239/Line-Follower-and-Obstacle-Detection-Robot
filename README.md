@@ -23,3 +23,10 @@ ATmega328.
 
 • Arduino
 • Platforms: Windows/Android
+
+ARDUINO LINE FOLLOWER CAR Based On Arduino Motor Driver Shield
+
+You have to install the AFMotor library before uploading the sketch
+
+1. First download the AFMotor Zip file then open Arduino IDE 
+2. Go to sketch >> Include library >> ADD .Zip file >> Select the downloaded AFMotor Zip File >> open
